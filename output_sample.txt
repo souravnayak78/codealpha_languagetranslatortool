@@ -1,0 +1,6 @@
+=======================================
+     Language Translation Tool (EN->HI)
+=======================================
+Supported phrases: hello, thank you, goodbye, how are you
+Enter a phrase in English: hello
+Translated: namaste
